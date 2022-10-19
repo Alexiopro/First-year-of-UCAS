@@ -24,7 +24,9 @@ $$
 
 且$P(\omega_1)=P(\omega_2)=0.5$，说明贝叶斯判决边界。
 * 产生100个点(50个$\omega_1$类的点，50个$\omega_2$类的点)，并计算经验误差。
-
+<div align=center>
+    <img src="./Homework_2/problem_2.png" width='400'>
+</div>
 
 ### Problem 3
 
