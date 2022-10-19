@@ -1,1 +1,4 @@
-###这个文件夹综合了UCAS向世明老师教授的模式识别导论的课程作业，包括了程序源码和\LaTeX码与pdf
+# 模式识别 Pattern Recognition
+## 0. 简介
+* 模式识别的一些实例问题Python实现
+* 环境: VScode + Python3.9
