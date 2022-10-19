@@ -10,7 +10,7 @@ mu=5; std_var = 1; X=mvnrnd(mu, std_var, 50);）。现需要采用 Parzen 窗方
 * 请讨论窗宽的影响，并画出几种不同窗宽取值下所估计获得的概率密度函数曲线。
 50 样本点如下:
 <div align=center>
-    <img src="./problem_3/data.png" width='400'>
+    <img src="./Homework2/problem_1.png" width='400'>
 </div>
 
 ### Problem 2
