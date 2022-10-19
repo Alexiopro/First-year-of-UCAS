@@ -3,7 +3,7 @@
 * 模式识别的一些实例问题Python实现
 * 环境: VScode + Python3.9
 ## 1. 实例问题
-### Problem 1
+### Problem 1 (Homework II)
 现有一维空间的 50 个样本点（实际上，这些样本点是在 Matlab 中按如下语句生成的：
 mu=5; std_var = 1; X=mvnrnd(mu, std_var, 50);）。现需要采用 Parzen 窗方法对概率密度函数进行估计。
 * 请分别编程实现方窗和高斯窗情形下的概率密度函数估计；
@@ -14,7 +14,7 @@ mu=5; std_var = 1; X=mvnrnd(mu, std_var, 50);）。现需要采用 Parzen 窗方
     <img src="./Homework_2/problem_1.png" width='400'>
 </div>
 
-### Problem 2
+### Problem 2 (Homework II)
 本题关于线性分类器的构造与训练。所使用的四类二维样本（共 40 个）如下：
 
 <div align=center>
@@ -24,25 +24,11 @@ mu=5; std_var = 1; X=mvnrnd(mu, std_var, 50);）。现需要采用 Parzen 窗方
 实现批量感知器算法.初始权向量$a = 0$,
 * 使用程序利用$\omega_1$和$\omega_2$的数据进行训练,记录收敛步数.
 * 使用程序利用$\omega_2$和$\omega_3$的数据进行训练,记录收敛步数.
+请写一个程序，实现 MSE 多类扩展方法。每一类用前 8 个样本来构造分类器，用后两个样本作测试。请给出你的正确率
 
-且$P(\omega_1)=P(\omega_2)=0.5$，说明贝叶斯判决边界。
-* 产生100个点(50个$\omega_1$类的点，50个$\omega_2$类的点)，并计算经验误差。
-<div align=center>
-    <img src="./Homework_2/problem_2.png" width='400'>
-</div>
 
-### Problem 3
 
-实现批量感知器算法.初始权向量$a = 0$,
-* 使用程序利用$\omega_1$和$\omega_2$的数据进行训练,记录收敛步数.
-* 使用程序利用$\omega_2$和$\omega_3$的数据进行训练,记录收敛步数.
-请写一个程序,实现 MSE 多类扩展方法。每一类用前 8 个样本来构造分类器,用后两个样本作测试。请给出你的正确率.
-
-<div align=center>
-    <img src="./problem_3/data.png" width='400'>
-</div>
-
-### Problem 4
+### Problem 3 (Homework III)
 
 本题使用的数据如下:
 
