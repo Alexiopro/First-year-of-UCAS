@@ -3,7 +3,7 @@
 * 模式识别的一些实例问题Python实现
 * 环境: VScode + Python3.9
 * 特别感谢\href{https://github.com/Alexiopro/AI01001H-PatternRecognition/commits?author=leofansq}{@leofansq} 同学的支持！
-* [特别感谢@leofansq同学的支持！]([URL](https://github.com/Alexiopro/AI01001H-PatternRecognition/commits?author=leofansq))
+* [特别感谢@leofansq同学的支持！](https://github.com/Alexiopro/AI01001H-PatternRecognition/commits?author=leofansq)
 ## 1. 实例问题
 ### Problem 1 (Homework II)
 现有一维空间的 50 个样本点（实际上，这些样本点是在 Matlab 中按如下语句生成的：
