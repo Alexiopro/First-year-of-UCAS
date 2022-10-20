@@ -1,4 +1,4 @@
-# 模式识别 Pattern Classification
+# 半导体材料测试与分析  Semiconductor Material Testing and Analysis
 ## 0. 简介
 
 * 分析数据处理的一些实例问题Python实现
